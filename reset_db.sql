@@ -1,0 +1,25 @@
+-- Run this any time you want to wipe all user data
+delete from block_technique_tags;
+delete from theory_technique_tags;
+delete from creative_style_tags;
+delete from exercise_technique_tags;
+delete from block_exercise_entries;
+delete from block_song_entries;
+delete from practice_blocks;
+delete from guitar_sessions;
+delete from song_style_tags;
+delete from song_parts;
+delete from songs;
+delete from style_tags;
+delete from guitar_techniques;
+delete from guitar_exercises;
+delete from cardio_entries;
+delete from exercise_sets;
+delete from session_exercises;
+delete from workout_sessions;
+delete from preset_exercises;
+delete from workout_presets;
+delete from exercise_library;
+delete from study_blocks;
+delete from study_sessions;
+delete from study_subjects;
